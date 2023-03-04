@@ -20,7 +20,7 @@ Comming soon
 ### APK
 Download apk file here [Music player v1.3](https://github.com/dtrung98/Source/raw/master/musicr.apk)
 ```
-https://github.com/dtrung98/Source/raw/master/musicr.apk
+https://github.com/eduardovpaim/MusicasPlayer.git
 ```
 ## Screenshots
 </br>
